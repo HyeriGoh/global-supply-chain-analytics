@@ -1,7 +1,7 @@
 # global-supply-chain-analytics
 Supply Chain Analytics - North America and APAC focused
 
-![Dashboard](powerbi/screenshots/executive_dashboard.png)
+![Dashboard](PowerBI/Screenshots/Executive Overview.png)
 
 ## Business Problem
 
