@@ -25,7 +25,7 @@ Built an end-to-end BI analytics solution using:
 
 ## Data Architecture
 
-![Architecture](architecture/data_pipeline.png)
+![Architecture](architecture/Data Pipeline.png)
 
 ## Key Features
 
