@@ -1,7 +1,7 @@
 # global-supply-chain-analytics
 Supply Chain Analytics - North America and APAC focused
 
-![PowerBI/Screenshots/Executive Overview.png]
+![Overview](PowerBI/Screenshots/Executive Overview.png)
 
 ## Business Problem
 
@@ -25,7 +25,7 @@ Built an end-to-end BI analytics solution using:
 
 ## Data Architecture
 
-![architecture/Data Pipeline.png]
+![Architecture](architecture/Data Pipeline.png)
 
 ## Key Features
 
